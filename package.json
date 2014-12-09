@@ -1,0 +1,12 @@
+{
+	"name": "knotable-ext-snippets",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/magnifi/knotable-ext-snippets.git"
+	},
+	"devDependencies": {
+	},
+	"scripts": {
+	}
+}
